@@ -36,8 +36,8 @@ hindi-crnn-ctc/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/RavendrakumarBaghel/hindi-crnn-ctc.git
-cd hindi-crnn-ctc
+git clone https://github.com/RavendrakumarBaghel/OCR_BHASHINI.git
+cd OCR_BHASHINI
 
 # 2. Create a virtual environment
 python3 -m venv venv
